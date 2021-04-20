@@ -6,10 +6,10 @@
   </p>
   <p>
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaovds/Podcastr?color=%239164FA">
-    <a href="" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-a85907189/" target="_blank" rel="noopener noreferrer">
       <img alt="Made by" src="https://img.shields.io/badge/made%20by-joaovds-%239164FA">
     </a>
-    <img alt="GitHub" src="https://img.shields.io/github/license/joaovds/Podcastr?color=%239164FA">
+    <img alt="GitHub" src="https://img.shields.io/github/license/joaovds/Podcastr?color=9164fa&style=flat-square">
   </p>
 </div>
 
